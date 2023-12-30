@@ -15,6 +15,7 @@ and making it publicly accessible. No servers are needed,
 and you can use Amazon S3 to store and retrieve any
 amount of data at any time, from anywhere on the web.
 After completing this lab, you should be able to:
+
 ● Create a bucket in Amazon S3
 
 ● Upload content to your bucket
